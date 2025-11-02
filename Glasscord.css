@@ -3169,15 +3169,16 @@ button.addButton__29444.forceVisible__29444.button__201d5.lookBlank__201d5.color
 
 .container__0b563,
 .header__0b563 {
-    background: transparent;
-    background-color: transparent;
+    background: transparent !important;
+    background-color: transparent !important;
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
     border-radius: 20px;
     box-shadow: var(--glass-shadow);
 }
 
 .text-xs\/normal_cf4812,
-.text-md\/medium_cf4812 {
+.text-md\/medium_cf4812,
+.text-md\/normal_cf4812 {
     color: white !important;
 }
 
@@ -3268,7 +3269,7 @@ button.addButton__29444.forceVisible__29444.button__201d5.lookBlank__201d5.color
 }
 
 .page_c791b2 {
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 .mainTableContainer__09a38 {
