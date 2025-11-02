@@ -16,7 +16,6 @@ It combines soft blur effects, subtle brightness, and smooth animations to creat
 You can easily tweak the glass effect to match your personal style.
 Open the CSS file and look for this section:
 
-/* ===============================================
    🌫️ Glasscord Theme Settings
    Adjust your transparency effects here:
    -----------------------------------------------
@@ -26,7 +25,6 @@ Open the CSS file and look for this section:
    Example:
    --blur-strength: 2rem;        (Softness)
    --brightness-level: 0.8;      (Brightness)
-=============================================== */
 
 You can experiment with these values until you find your preferred look.
 For example:
@@ -42,7 +40,7 @@ For example:
 
 2. Move it into your Vencord or BetterDiscord themes folder.
 
-3.Enable it in your client’s theme settings.
+3. Enable it in your client’s theme settings.
 
 4. Restart Discord if changes don’t apply immediately.
 
