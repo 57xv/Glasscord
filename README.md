@@ -16,15 +16,7 @@ It combines soft blur effects, subtle brightness, and smooth animations to creat
 You can easily tweak the glass effect to match your personal style.
 Open the CSS file and look for this section:
 
-   🌫️ Glasscord Theme Settings
-   Adjust your transparency effects here:
-   -----------------------------------------------
-   🔹 --blur-strength: Controls how strong the glass blur is
-   🔹 --brightness-level: Controls how bright the glass appears
-   -----------------------------------------------
-   Example:
-   --blur-strength: 2rem;        (Softness)
-   --brightness-level: 0.8;      (Brightness)
+<img width="402" height="312" alt="image" src="https://github.com/user-attachments/assets/1e374207-c1a3-462a-a508-4e3200192a53" />
 
 You can experiment with these values until you find your preferred look.
 For example:
@@ -47,5 +39,7 @@ For example:
 Credits
 
 Author: NMWplays
+
 Version: 1.0.0
+
 License: MIT
