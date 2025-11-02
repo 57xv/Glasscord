@@ -14,13 +14,17 @@
    -----------------------------------------------
    🔹 --blur-strength: Controls how strong the glass blur is
    🔹 --brightness-level: Controls how bright the glass appears
+   🔹 --background-image: Change this link to set your own background image
    -----------------------------------------------
    Example:
    --blur-strength: 2rem;        (Blur)
    --brightness-level: 0.8;      (Brightness)
+   --background-image: url('https://i.imgur.com/beADHes.jpeg'); ('Background')
 =============================================== */
 
 :root {
     --blur-strength: 7px;
     --brightness-level: 0.8;
+
+    --background-image: url('https://i.imgur.com/beADHes.jpeg');
 }
