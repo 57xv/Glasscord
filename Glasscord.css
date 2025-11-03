@@ -3421,7 +3421,8 @@ svg.icon_a22cb0 {
 }
 
 .mentioned__5126c {
-    border-radius: 20px !important;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20xp;
 }
 
 .perkCardImage_a1e8da {
