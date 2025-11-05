@@ -3518,3 +3518,9 @@ svg.icon_a22cb0 {
     border-radius: 20px !important;
     box-shadow: var(--glass-shadow) !important;
 }
+
+.loadingPopout__58f1c {
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    border-radius: 15px;
+    box-shadow: var(--glass-shadow);
+}
