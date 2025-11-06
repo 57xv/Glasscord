@@ -3535,4 +3535,9 @@ svg.icon_a22cb0 {
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
     border-radius: 15px;
     box-shadow: var(--glass-shadow);
+    background-color: transparent !important;
+}
+
+.topic__6ec1a {
+    color: white !important;
 }
