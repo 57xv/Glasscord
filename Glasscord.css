@@ -3613,3 +3613,10 @@ img.thumbnail__0f2e8 {
     border-radius: 10px;
     box-shadow: var(--glass-shadow);
 }
+
+.streamPreview__6da2d {
+    background-color: transparent;
+    border-radius: 20px;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    box-shadow: var(--glass-shadow);
+}
