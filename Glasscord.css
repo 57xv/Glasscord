@@ -3596,3 +3596,11 @@ img.thumbnail__0f2e8 {
 .listDefault__07f91 .clickable__07f91:hover .clanTag__07f91 {
     background: transparent;
 }
+
+.overflowCount_e928f4 {
+    background: transparent;
+}
+
+.childWrapperNoHoverBg__6e9f8 {
+    box-shadow: var(--glass-shadow);
+}
