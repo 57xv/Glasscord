@@ -3620,3 +3620,18 @@ img.thumbnail__0f2e8 {
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
     box-shadow: var(--glass-shadow);
 }
+
+.container__235ca {
+    color: white !important;
+}
+
+.container_dca174 {
+    background: transparent;
+    border: none;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
+    box-shadow: var(--glass-shadow);
+    border-radius: 12px;
+}
