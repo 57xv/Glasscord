@@ -28,8 +28,14 @@
     --text-muted: color white !important;
 
     --text-secondary: color white !important;
+
+    --custom-app-panels-height: 57.59375px;
+    --gap: 20px;
 }
 
+.sidebarList__5e434 {
+    margin-bottom: calc(var(--custom-app-panels-height, 0) + var(--gap));
+} 
 .panels_c48ade {
     border-radius: 20px !important;
     box-shadow: var(--glass-shadow);
@@ -180,7 +186,6 @@
 
 .sidebarList__5e434 {
     border-radius: 20px !important;
-    height: calc(100% - 56px - 22px);
 }
 
 .searchBar_e6b769 {
