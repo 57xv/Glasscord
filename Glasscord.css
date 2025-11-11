@@ -35,7 +35,8 @@
 
 .sidebarList__5e434 {
     margin-bottom: calc(var(--custom-app-panels-height, 0) + var(--gap));
-} 
+}
+
 .panels_c48ade {
     border-radius: 20px !important;
     box-shadow: var(--glass-shadow);
@@ -3713,8 +3714,8 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
     box-shadow: var(--glass-shadow);
 }
 
-.primary__06eda, 
-.secondary__06eda, 
+.primary__06eda,
+.secondary__06eda,
 .tertiary__06eda {
     background-color: transparent;
 }
@@ -3785,4 +3786,17 @@ button.close_e50a4d.close__49fc1.button__201d5.lookBlank__201d5.colorBrand__201d
     background: transparent;
     box-shadow: var(--glass-shadow);
     border-radius: 10px;
+}
+
+.expressive_a22cb0 {
+    box-shadow: var(--glass-shadow);
+    border-radius: 13px;
+}
+
+.expressive_a22cb0:hover {
+    background-color: #ffffff17;
+}
+
+.overlay-secondary_a22cb0:hover {
+    background-color: #ffffff24;
 }
