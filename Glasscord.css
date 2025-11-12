@@ -3848,3 +3848,104 @@ button.close_e50a4d.close__49fc1.button__201d5.lookBlank__201d5.colorBrand__201d
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
     box-shadow: var(--glass-shadow) !important;
 }
+
+.collectibleInfoContainer_c50f62 {
+    background-color: transparent;
+}
+
+.previewContainer_c50f62 {
+    box-shadow: var(--glass-shadow);
+}
+
+.chatPreview_c50f62 {
+    background: transparent;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.mockInput_c50f62 {
+    background: transparent;
+    border-radius: 15px;
+    box-shadow: var(--glass-shadow);
+}
+
+.pfxPreviewContainer_c50f62 {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.headerContainerGift__57a87 {
+    background-image: none;
+}
+
+.customGiftMessage_bf1b4a {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+    border-radius: 20px;
+}
+
+.previewContainerSelected__50f14 {
+    background-color: transparent;
+    border-color: var(--checkbox-border-checked);
+    border-radius: 20px !important;
+    border: none !important;
+    box-shadow: var(--glass-shadow);
+}
+
+.container__8564e.refresh__8564e {
+    background-color: transparent;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    border-radius: 13px;
+}
+
+.container__231eb.refresh__231eb {
+    background-color: transparent;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    border-radius: 13px;
+}
+
+.nameplateContainer__0b5ea {
+    border-radius: 20px;
+}
+
+.nameplatePreview_e144e0 {
+    box-shadow: var(--glass-shadow);
+    border-radius: 20px;
+}
+
+.table_fda3e4 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.finePrint__553e7 {
+    color: white !important;
+}
+
+button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+}
+
+.cardInput__8b579 {
+    background-color: transparent;
+    border: none;
+    border-radius: 15px;
+    box-shadow: var(--glass-shadow);
+}
+
+.image__0f084 {
+    border-radius: 15px;
+}
+
+.customGiftHeader__8564e {
+    background-color: transparent;
+}
+
+.emojiHeader__231eb {
+    background-color: transparent !important;
+    box-shadow: var(--glass-shadow) !important;
+}
