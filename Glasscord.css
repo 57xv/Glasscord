@@ -4007,3 +4007,8 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
     box-shadow: var(--glass-shadow);
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
 }
+
+.container__7641b {
+    background-color: transparent;
+    margin-left: 10px;
+}
