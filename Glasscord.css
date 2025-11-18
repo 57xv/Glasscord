@@ -3942,7 +3942,8 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
     border-start-start-radius: 20px;
 }
 
-.profileEffect__0b5ea, .profileEffectBackground__0b5ea {
+.profileEffect__0b5ea,
+.profileEffectBackground__0b5ea {
     border-radius: 10px;
 }
 
@@ -3991,4 +3992,28 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
 .container__7641b {
     background-color: transparent;
     margin-left: 10px;
+}
+
+.addButtonContainer__4a011 {
+    background: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.button_c97e55:hover {
+    box-shadow: var(--glass-shadow);
+}
+
+.button_f7ecac.selected_f7ecac {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+    border-radius: 10px;
+}
+
+.chatHeaderBar_a5700d {
+    background-color: transparent;
+}
+
+.badgeLabel_aeaaeb {
+    border-radius: 10px;
 }
