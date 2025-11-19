@@ -4052,3 +4052,23 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
     box-shadow: var(--glass-shadow);
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
 }
+
+.limitedBackground__65c15 {
+    background: transparent;
+}
+
+.limitedFeatureBorder__65c15 {
+    background: transparent;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    border-radius: 20px;
+}
+
+.upsellTextContainer__0f7dc {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.caretIcon_d6f39b .caretFill_d6f39b {
+    fill: #ffffff30;
+}
