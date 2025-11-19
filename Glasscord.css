@@ -4045,3 +4045,10 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
 .parentContainer__5573a:hover .container__5573a.active__5573a {
     background-color: transparent;
 }
+
+.dialogWrapper_b1f768 {
+    background-color: transparent;
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
