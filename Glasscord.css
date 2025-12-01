@@ -517,7 +517,7 @@ div#popout_52 {
 }
 
 .header_f37cb1 {
-    box-shadow: var(--glass-shadow);
+    box-shadow: var(--glass-shadow) !important;
 }
 
 .profileEffects__01370 {
@@ -4071,4 +4071,45 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
 
 .caretIcon_d6f39b .caretFill_d6f39b {
     fill: #ffffff30;
+}
+
+.participantsButton__211d1:hover {
+    background: transparent;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.participantsButton__211d1 {
+    background: transparent;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.scroller_d6b206 {
+    background-color: transparent;
+    border-radius: 20px;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    box-shadow: var(--glass-shadow);
+}
+
+button.volumeButton__2d263.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5 {
+    box-shadow: none;
+}
+
+button.rightTrayIcon_cb9592.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5 {
+    box-shadow: none;
+}
+
+.container__55c99 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.focused__55c99 {
+    background-color: transparent;
+}
+
+.bannerVisible_f37cb1 .headerEllipseForeground_f37cb1 {
+    background: transparent;
 }
