@@ -4113,3 +4113,13 @@ button.rightTrayIcon_cb9592.button__201d5.lookBlank__201d5.colorBrand__201d5.gro
 .bannerVisible_f37cb1 .headerEllipseForeground_f37cb1 {
     background: transparent;
 }
+
+.vc-card-base {
+    background: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.cardPrimary__73069, .cardPrimary__73069.editable__73069 {
+    background-color: transparent;
+}
