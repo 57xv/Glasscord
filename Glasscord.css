@@ -479,7 +479,6 @@ div#popout_52 {
 
 .chatTypingGradientNotAtBottom__36d07 {
     background: transparent;
-    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
 }
 
 .newMessagesBar__0f481 {
