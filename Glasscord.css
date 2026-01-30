@@ -273,7 +273,6 @@ body {
 .section__00943 {
     border: none;
     background-color: transparent;
-    box-shadow: var(--glass-shadow);
 }
 
 .outer_bf1984.active_bf1984,
@@ -556,7 +555,11 @@ div#popout_52 {
 }
 
 .item__133bf.addFriend__133bf.item_aa8da2.themed_aa8da2:hover {
-    background-color: #1111ec;
+    background-color: var(--control-primary-background-default) !important;
+}
+
+.full-motion .item_aa8da2 {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .peopleListItem_cc6179.active_cc6179,
@@ -810,7 +813,6 @@ div#\:r1lu\:,
 div#\:r1m3\:,
 .description_ddd181,
 .labelDescriptor_ddd181,
-.defaultColor__4bd52,
 .placeholder__3f413,
 div#\:r1u7\:,
 .button__14992,
@@ -825,7 +827,8 @@ div#\:r1u7\:,
 .text-xs\/medium_cf4812,
 .badge_c3d04b,
 .limitedTimeBadge_c3d04b.badgeLeftAligned_c3d04b.textBadge__2b1f5.base__2b1f5.eyebrow__2b1f5.baseShapeRound__2b1f5,
-.colorDefault_c1e9c4 .label_c1e9c4 {
+.colorDefault_c1e9c4 .label_c1e9c4,
+.theme-dark .productCardBadge_b8a6bd {
     color: white !important;
 }
 
@@ -1340,9 +1343,13 @@ keyboard-mode .hoverButton__06ab4:focus {
     border-radius: 13px;
 }
 
+.navButton__08434 {
+    border-radius: 13px;
+}
+
 .navButton__08434:hover {
     background-color: #ffffff1c;
-    color: var(--interactive-hover);
+    color: white;
     box-shadow: var(--glass-shadow);
     border-radius: 13px;
 }
@@ -1891,6 +1898,7 @@ keyboard-mode .hoverButton__06ab4:focus {
 .overlay-primary_a22cb0 {
     border-radius: 15px;
     box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(2rem);
 }
 
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
@@ -2020,7 +2028,7 @@ keyboard-mode .hoverButton__06ab4:focus {
 .input__0ed4f {
     background-color: transparent;
     border: none;
-    border-radius: 15px;
+    border-radius: 15px !important;
     box-shadow: var(--glass-shadow);
 }
 
@@ -4119,6 +4127,88 @@ button.rightTrayIcon_cb9592.button__201d5.lookBlank__201d5.colorBrand__201d5.gro
     box-shadow: var(--glass-shadow);
 }
 
-.cardPrimary__73069, .cardPrimary__73069.editable__73069 {
+.cardPrimary__73069,
+.cardPrimary__73069.editable__73069 {
     background-color: transparent;
+}
+
+.content_e9e3ed,
+.contentHeader_e9e3ed {
+    background: transparent;
+}
+
+.item_caf372.active_caf372 {
+    background-color: #ffffff17;
+    box-shadow: var(--glass-shadow);
+    border-radius: 15px;
+}
+
+.item_caf372 {
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+
+.item_caf372.active_caf372,
+.item_caf372:hover {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+    border-radius: 15px;
+    transform: scale(1.03);
+}
+
+.scrim__40128 {
+    background-color: transparent;
+}
+
+.fixedContent__409aa:after {
+    background: transparent;
+}
+
+.sidebar__409aa {
+    box-shadow: var(--glass-shadow);
+}
+
+.searchBar_c322aa {
+    background: transparent;
+    border: none;
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+}
+
+.refresh-active-now .wrapper__00943 {
+    background: transparent;
+}
+
+.refresh-active-now .itemCard__7e549 {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
+    background-color: var(--control-primary-background-default);
+}
+
+.applicationStore_f07d62,
+.homeWrapper__0920e {
+    background-color: transparent;
+}
+
+.productCardContainer_fcbddd {
+    background: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.theme-dark .footerGradient_fcbddd {
+    background: transparent;
+}
+
+.selectDropdown__0edde {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(2rem);
 }
